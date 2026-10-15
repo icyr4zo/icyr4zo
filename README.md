@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Clydee 👋
 
-<!--
-**icyr4zo/icyr4zo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PTIT student who enjoys solving algorithm problems and building small projects for fun.
 
-Here are some ideas to get you started:
+## 🛠 Tech stack
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured projects
+- 🎮 [X-O-Arena](https://github.com/icyr4zo/X-O-Arena) – a tic-tac-toe game
+- 📊 [PTIT-Grade-Tracker](https://github.com/icyr4zo/PTIT-Grade-Tracker) – grade tracker for PTIT students
+- 💻 [codeptit](https://github.com/icyr4zo/codeptit) – C++ solutions for code.ptit.edu.vn problems
+- ☕ [code-ptit-java](https://github.com/icyr4zo/code-ptit-java) – Java solutions for code.ptit.edu.vn problems
+
+## 📈 Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=icyr4zo&show_icons=true&theme=tokyonight)
