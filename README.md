@@ -101,7 +101,6 @@ A game project focused on creating an interactive Tic-Tac-Toe experience with de
 
 - 💻 GitHub: [@icyr4zo](https://github.com/icyr4zo)
 - 📧 Email : kiet13062006@gmail.com
-- 🎮 Discord : [@setroitt]
 
 ---
 
