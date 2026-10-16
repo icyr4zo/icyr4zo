@@ -15,7 +15,7 @@ I'm an IT student interested in software development, problem-solving, and build
 
 ## 🙋 About Me
 
-- 🎓 Studying Information Technology at PTIT.
+- 🎓 Studying Information Security at PTIT.
 - 💻 Interested in software development and web technologies.
 - 🛠️ Building projects to apply what I learn in practice.
 - 📚 Continuously improving my programming, problem-solving, and database skills.
