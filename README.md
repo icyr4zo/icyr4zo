@@ -1,25 +1,20 @@
 # 👋 Hi, I'm Clyde
 
-🎓 IT Student | 💻 Aspiring Software Developer | 🇻🇳 Vietnam
+🎓 **Information Security Student at PTIT** | 💻 Aspiring Software Developer | 🇻🇳 Vietnam
 
-I'm an IT student interested in software development, problem-solving, and building practical projects. I enjoy exploring new technologies, improving my programming skills, and turning ideas into useful applications.
+I'm a student passionate about programming, software development, and building practical applications. I enjoy learning new technologies, solving problems, and turning ideas into functional projects.
 
-## 📌 Table of Contents
+My current interests include web development, database systems, object-oriented programming, and software engineering.
 
-- [About Me](#-about-me)
-- [Tech Stack](#-tech-stack)
-- [Featured Projects](#-featured-projects)
-- [Currently Learning](#-currently-learning)
-- [GitHub Stats](#-github-stats)
-- [Connect With Me](#-connect-with-me)
+---
 
 ## 🙋 About Me
 
-- 🎓 Studying Information Security at PTIT.
-- 💻 Interested in software development and web technologies.
-- 🛠️ Building projects to apply what I learn in practice.
-- 📚 Continuously improving my programming, problem-solving, and database skills.
-- 🚀 Focused on learning by building and improving real projects.
+- 🎓 Studying Information Security at Posts and Telecommunications Institute of Technology (PTIT).
+- 💻 Interested in software development and full-stack web technologies.
+- 🛠️ Learning by building practical applications and personal projects.
+- 📚 Improving my skills in programming, algorithms, and database design.
+- 🚀 Always exploring new technologies and challenging myself with more complex projects.
 
 ## 🧰 Tech Stack
 
@@ -28,8 +23,8 @@ I'm an IT student interested in software development, problem-solving, and build
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Web Development**
 
@@ -43,67 +38,105 @@ I'm an IT student interested in software development, problem-solving, and build
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+---
+
 ## 🚀 Featured Projects
 
-### 📚 English Vocab Trainer
+Projects are listed from relatively simple to more technically challenging.
 
-A vocabulary-learning web application designed to make studying English more interactive and convenient.
+### 1. 🎓 PTIT Grade Tracker
 
-- 🃏 Learn vocabulary with interactive flashcards.
-- 🧠 Practice with quizzes and review learning progress.
-- 📝 Add, edit, delete, and organize vocabulary.
-- 📥 Import and export vocabulary using JSON files.
-- 🌙 Dark mode for a comfortable learning experience.
+A lightweight web application that helps students calculate and keep track of their academic grades.
 
-**Tech:** HTML, CSS, JavaScript
+**Highlights**
+- Calculate academic grades and performance.
+- Simplify grade tracking and calculations.
+- Responsive interface with dark mode.
 
-🔗 [View Repository](https://github.com/icyr4zo/English-Vocab-Trainer)
-
-### 🎓 PTIT Grade Tracker
-
-A simple web application for tracking and calculating academic grades, designed with students in mind.
-
-- 📊 Calculate and monitor academic performance.
-- 🧮 Simplify grade calculations.
-- 📱 Use a responsive interface across different devices.
-- 🌙 Support dark mode.
-
-**Tech:** HTML, CSS, JavaScript
+**Tech Stack:** HTML, CSS, JavaScript
 
 🔗 [Live Demo](https://icyr4zo.github.io/PTIT-Grade-Tracker/) · [Source Code](https://github.com/icyr4zo/PTIT-Grade-Tracker)
 
-### 📖 LSD Helper — Vietnamese Communist Party History Quiz
+---
 
-A web-based quiz application designed to help PTIT students review Vietnamese Communist Party History through an interactive question bank.
+### 2. 📚 English Vocab Trainer
 
-- 📚 Practice with a question bank covering all 3 chapters.
-- 🎯 Choose individual chapters or use mixed quiz mode.
-- 🔀 Shuffle questions for different practice sessions.
-- 🔎 Search questions by keywords.
-- ❌ Review previously incorrect answers.
-- 📊 Track quiz progress, correct answers, incorrect answers, and accuracy.
-- 💡 View answers and short explanations after selecting an option.
-- 🌙 Dark mode interface for a comfortable study experience.
+An interactive vocabulary-learning application designed to make studying English easier and more engaging.
 
-**Tech:** HTML, CSS, JavaScript, JSON, GitHub Pages
+**Highlights**
+- Learn vocabulary through interactive flashcards.
+- Practice with quizzes and review sessions.
+- Add, edit, delete, and organize vocabulary.
+- Import and export vocabulary using JSON files.
+- Dark mode interface.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+🔗 [Source Code](https://github.com/icyr4zo/English-Vocab-Trainer)
+
+---
+
+### 3. 📖 LSD Helper — Vietnamese Communist Party History Quiz
+
+A web-based quiz application developed to help PTIT students review Vietnamese Communist Party History through an interactive question bank.
+
+**Highlights**
+- Question bank covering three chapters.
+- Individual chapter modes and mixed quiz mode.
+- Randomized questions and keyword search.
+- Wrong-answer review system.
+- Progress tracking and accuracy statistics.
+- Answer feedback with explanations.
+
+**Tech Stack:** HTML, CSS, JavaScript, JSON
 
 🔗 [Live Demo](https://icyr4zo.github.io/LSD-Helper/) · [Source Code](https://github.com/icyr4zo/LSD-Helper)
 
-### 🎮 XO Arena
+---
 
-A game project focused on creating an interactive Tic-Tac-Toe experience with desktop application technologies.
+### 4. 🎮 XO Arena
 
-**Tech:** JavaScript, HTML, CSS, Electron
+A desktop Tic-Tac-Toe game project built with web technologies and Electron.
 
-🔗 [Explore My Repositories](https://github.com/icyr4zo?tab=repositories)
+**Highlights**
+- Interactive Tic-Tac-Toe gameplay.
+- Desktop application experience.
+- Combines web development with desktop application technologies.
+
+**Tech Stack:** HTML, CSS, JavaScript, Electron
+
+🔗 [Source Code](https://github.com/icyr4zo/XO-Arena)
+
+---
+
+### 5. ⚽ FootballField — Football Pitch Management System
+
+A full-stack web application developed as a Database Systems course project at PTIT. The system supports the management of football pitch rentals and related business operations.
+
+**Highlights**
+- Dashboard for business overview and statistics.
+- Customer and football pitch management.
+- Booking schedules with time-conflict validation.
+- Flexible hourly pricing management.
+- Additional services associated with bookings.
+- Invoice generation and payment management.
+- Discount, deposit, and loyalty point calculations.
+- SQL queries and relational database design.
+- Demo bank-transfer QR interface.
+
+**Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript, PDO, XAMPP
+
+🔗 [Source Code](https://github.com/icyr4zo/FootballField)
+
+---
 
 ## 📖 Currently Learning
 
 - Data Structures and Algorithms
 - Object-Oriented Programming with C++ and Java
-- SQL and Database Management
-- Web Development
-- Software Design and Application Development
+- Database Design and SQL Optimization
+- Backend and Full-Stack Web Development
+- Software Engineering and Application Architecture
 
 ## 📊 GitHub Stats
 
