@@ -29,6 +29,7 @@ I'm an IT student interested in software development, problem-solving, and build
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **Web Development**
 
@@ -40,6 +41,7 @@ I'm an IT student interested in software development, problem-solving, and build
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 🚀 Featured Projects
 
@@ -69,6 +71,23 @@ A simple web application for tracking and calculating academic grades, designed 
 **Tech:** HTML, CSS, JavaScript
 
 🔗 [Live Demo](https://icyr4zo.github.io/PTIT-Grade-Tracker/) · [Source Code](https://github.com/icyr4zo/PTIT-Grade-Tracker)
+
+### 📖 LSD Helper — Vietnamese Communist Party History Quiz
+
+A web-based quiz application designed to help PTIT students review Vietnamese Communist Party History through an interactive question bank.
+
+- 📚 Practice with a question bank covering all 3 chapters.
+- 🎯 Choose individual chapters or use mixed quiz mode.
+- 🔀 Shuffle questions for different practice sessions.
+- 🔎 Search questions by keywords.
+- ❌ Review previously incorrect answers.
+- 📊 Track quiz progress, correct answers, incorrect answers, and accuracy.
+- 💡 View answers and short explanations after selecting an option.
+- 🌙 Dark mode interface for a comfortable study experience.
+
+**Tech:** HTML, CSS, JavaScript, JSON, GitHub Pages
+
+🔗 [Live Demo](https://icyr4zo.github.io/LSD-Helper/) · [Source Code](https://github.com/icyr4zo/LSD-Helper)
 
 ### 🎮 XO Arena
 
@@ -100,7 +119,7 @@ A game project focused on creating an interactive Tic-Tac-Toe experience with de
 ## 📫 Connect With Me
 
 - 💻 GitHub: [@icyr4zo](https://github.com/icyr4zo)
-- 📧 Email : kiet13062006@gmail.com
+- 📧 Email: kiet13062006@gmail.com
 
 ---
 
