@@ -105,7 +105,7 @@ A desktop Tic-Tac-Toe game project built with web technologies and Electron.
 
 **Tech Stack:** HTML, CSS, JavaScript, Electron
 
-🔗 [Source Code](https://github.com/icyr4zo/XO-Arena)
+🔗 [Source Code](https://github.com/icyr4zo/X-O-Arena)
 
 ---
 
